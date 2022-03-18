@@ -12,4 +12,4 @@ for i in range(1,num +1) :
   else :
     x += 2
     if i != x :
-      print((" * "*(i-x)).center(int(num/2)*3,"-"))# new
+      print((" * "*(i-x)).center(int(num/2)*3,"-"))
